@@ -5,3 +5,4 @@ zolo
 sin
 sun
 west
+suty
