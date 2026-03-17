@@ -7,3 +7,4 @@ sun
 west
 suty
 bunnu
+wet
