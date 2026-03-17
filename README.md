@@ -38,3 +38,4 @@ diin
 sol
 coon
 xoon
+cooi
