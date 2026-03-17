@@ -8,3 +8,4 @@ west
 suty
 bunnu
 wet
+wol
