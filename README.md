@@ -6,3 +6,4 @@ sin
 sun
 west
 suty
+bunnu
