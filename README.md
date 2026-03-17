@@ -22,3 +22,4 @@ viin
 vyuu
 wuun
 wuuhh
+qinn
