@@ -35,3 +35,4 @@ qiin
 wiig
 diin
 diin
+sol
