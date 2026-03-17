@@ -4,3 +4,4 @@ best
 zolo
 sin
 sun
+west
